@@ -4,12 +4,8 @@
   "description": "First npm driven project",
   "main": "index.js",
   "scripts": {
-    "add-all": "git add .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DaniSer84",
-  "license": "ISC",
-  "dependencies": {
-    "all": "^0.0.0"
-  }
+  "license": "ISC"
 }
