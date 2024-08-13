@@ -1,0 +1,11 @@
+{
+  "name": "npm_prj1",
+  "version": "1.0.0",
+  "description": "First npm driven project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DaniSer84",
+  "license": "ISC"
+}
